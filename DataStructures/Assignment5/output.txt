@@ -1,0 +1,8 @@
+-1: No
+1: Yes
+4: No
+15: Yes
+16: No
+44: No
+49: Yes
+69: No

@@ -1,0 +1,37 @@
+Does this sport require a ball?
+	Can there be more than two players on each team?
+		Is using your hands a violation?
+			Soccer
+			Is any physical interaction with the opposing team allowed?
+				Does it require protective headgear?
+					Football
+					Basketball
+				Is it usually played on the beach?
+					Beach Volleyball
+					Volleyball
+		Are the opponents facing each other?
+			Tennis
+			Squash
+	Can this sport be played indoors?
+		Does it require a puck and a stick?
+			Can it be played on ice?
+				Ice hockey
+				Floor hockey
+			Does it require a lot of physical violence?
+				Does it require gloves?
+					Boxing
+					Taekwondo
+				Can it be performed/played alone?
+					Should there be water involved?
+						Swimming
+						Is Speed important?
+							Should the player be wearing skates?
+								Speed skating
+								Sprinting
+							Weightlifting
+					Does the player need a racquet to play?
+						Badminton
+						Frisbee
+		Is this sport played/performed on waves?
+			Surfing
+			Snowboarding
